@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\NetCoreCurriculum\\Configuration_2_InMemory\\Configuration_2_InMemory.csproj",
+      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Configuration_2_InMemory\\Configuration_2_InMemory.csproj",
       "projectName": "Configuration_2_InMemory",
-      "projectPath": "C:\\TFS\\NetCoreCurriculum\\Configuration_2_InMemory\\Configuration_2_InMemory.csproj",
+      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Configuration_2_InMemory\\Configuration_2_InMemory.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\NetCoreCurriculum\\Configuration_2_InMemory\\obj\\",
+      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Configuration_2_InMemory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

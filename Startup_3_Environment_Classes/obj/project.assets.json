@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\NetCoreCurriculum\\Startup_3_Environment_Classes\\Startup_3_Environment_Classes.csproj",
+      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Startup_3_Environment_Classes\\Startup_3_Environment_Classes.csproj",
       "projectName": "Startup_3_Environment_Classes",
-      "projectPath": "C:\\TFS\\NetCoreCurriculum\\Startup_3_Environment_Classes\\Startup_3_Environment_Classes.csproj",
+      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Startup_3_Environment_Classes\\Startup_3_Environment_Classes.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\NetCoreCurriculum\\Startup_3_Environment_Classes\\obj\\",
+      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Startup_3_Environment_Classes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

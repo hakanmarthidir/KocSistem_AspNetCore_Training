@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\NetCoreCurriculum\\Middlewares_2_Map_MapWhen\\Middlewares_2_Map_MapWhen.csproj",
+      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Middlewares_2_Map_MapWhen\\Middlewares_2_Map_MapWhen.csproj",
       "projectName": "Middlewares_2_Map_MapWhen",
-      "projectPath": "C:\\TFS\\NetCoreCurriculum\\Middlewares_2_Map_MapWhen\\Middlewares_2_Map_MapWhen.csproj",
+      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Middlewares_2_Map_MapWhen\\Middlewares_2_Map_MapWhen.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\NetCoreCurriculum\\Middlewares_2_Map_MapWhen\\obj\\",
+      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Middlewares_2_Map_MapWhen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

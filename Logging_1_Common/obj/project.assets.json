@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\NetCoreCurriculum\\Logging_1_Common\\Logging_1_Common.csproj",
+      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Logging_1_Common\\Logging_1_Common.csproj",
       "projectName": "Logging_1_Common",
-      "projectPath": "C:\\TFS\\NetCoreCurriculum\\Logging_1_Common\\Logging_1_Common.csproj",
+      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Logging_1_Common\\Logging_1_Common.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\NetCoreCurriculum\\Logging_1_Common\\obj\\",
+      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Logging_1_Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

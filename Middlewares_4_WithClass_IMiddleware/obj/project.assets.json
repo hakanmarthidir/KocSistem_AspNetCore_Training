@@ -12082,11 +12082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\NetCoreCurriculum\\Middlewares_4_WithClass_IMiddleware\\Middlewares_4_WithClass_IMiddleware.csproj",
+      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Middlewares_4_WithClass_IMiddleware\\Middlewares_4_WithClass_IMiddleware.csproj",
       "projectName": "Middlewares_4_WithClass_IMiddleware",
-      "projectPath": "C:\\TFS\\NetCoreCurriculum\\Middlewares_4_WithClass_IMiddleware\\Middlewares_4_WithClass_IMiddleware.csproj",
+      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Middlewares_4_WithClass_IMiddleware\\Middlewares_4_WithClass_IMiddleware.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\NetCoreCurriculum\\Middlewares_4_WithClass_IMiddleware\\obj\\",
+      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Middlewares_4_WithClass_IMiddleware\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
