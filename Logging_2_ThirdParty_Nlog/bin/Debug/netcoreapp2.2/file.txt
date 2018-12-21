@@ -1,0 +1,11 @@
+XmlKeyManager..ctor => XmlKeyManager.GetFallbackKeyRepositoryEncryptorPair => LoggingExtensions.UsingProfileAsKeyRepositoryWithDPAPI User profile is available. Using 'C:\Users\02483918\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+<ProcessRequestAsync>d__2.MoveNext => HostingApplication.CreateContext => HostingApplicationDiagnostics.LogRequestStarting Request starting HTTP/2.0 GET https://localhost:44329/api/values  
+AsyncMethodBuilderCore.Start => <Invoke>d__3.MoveNext => Log.ExecutingEndpoint Executing endpoint 'Logging_2_ThirdParty_Nlog.Controllers.ValuesController.Get (Logging_2_ThirdParty_Nlog)'
+AsyncMethodBuilderCore.Start => <InvokeAsync>d__16.MoveNext => MvcCoreLoggerExtensions.ExecutingAction Route matched with {action = "Get", controller = "Values"}. Executing action Logging_2_ThirdParty_Nlog.Controllers.ValuesController.Get (Logging_2_ThirdParty_Nlog)
+AsyncMethodBuilderCore.Start => <InvokeActionMethodAsync>d__12.MoveNext => MvcCoreLoggerExtensions.ActionMethodExecuting Executing action method Logging_2_ThirdParty_Nlog.Controllers.ValuesController.Get (Logging_2_ThirdParty_Nlog) - Validation state: Valid
+ObjectMethodExecutor.Execute => <no type>.lambda_method => ValuesController.Get NLOG CRITIC
+AsyncMethodBuilderCore.Start => <InvokeActionMethodAsync>d__12.MoveNext => MvcCoreLoggerExtensions.ActionMethodExecuted Executed action method Logging_2_ThirdParty_Nlog.Controllers.ValuesController.Get (Logging_2_ThirdParty_Nlog), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 4.4008ms.
+ObjectResult.ExecuteResultAsync => ObjectResultExecutor.ExecuteAsync => MvcCoreLoggerExtensions.ObjectResultExecuting Executing ObjectResult, writing value of type 'System.String[]'.
+AsyncMethodBuilderCore.Start => <InvokeAsync>d__16.MoveNext => MvcCoreLoggerExtensions.ExecutedAction Executed action Logging_2_ThirdParty_Nlog.Controllers.ValuesController.Get (Logging_2_ThirdParty_Nlog) in 374.7984ms
+AsyncMethodBuilderCore.Start => <Invoke>d__3.MoveNext => Log.ExecutedEndpoint Executed endpoint 'Logging_2_ThirdParty_Nlog.Controllers.ValuesController.Get (Logging_2_ThirdParty_Nlog)'
+<ProcessRequestAsync>d__2.MoveNext => HostingApplication.DisposeContext => HostingApplicationDiagnostics.LogRequestFinished Request finished in 503.2579ms 200 application/json; charset=utf-8
