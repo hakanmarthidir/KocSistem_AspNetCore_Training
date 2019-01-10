@@ -12947,11 +12947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\DI_1_BuiltIn\\DI_1_BuiltIn.csproj",
+      "projectUniqueName": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\DI_1_BuiltIn\\DI_1_BuiltIn.csproj",
       "projectName": "DI_1_BuiltIn",
-      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\DI_1_BuiltIn\\DI_1_BuiltIn.csproj",
+      "projectPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\DI_1_BuiltIn\\DI_1_BuiltIn.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\DI_1_BuiltIn\\obj\\",
+      "outputPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\DI_1_BuiltIn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -24,3 +24,16 @@ C:\TFS\NetCoreCurriculum\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1
 C:\TFS\NetCoreCurriculum\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.RazorTargetAssemblyInfo.cache
 C:\TFS\NetCoreCurriculum\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.dll
 C:\TFS\NetCoreCurriculum\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\bin\Debug\netcoreapp2.2\Options_1_CommonUsage.deps.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\bin\Debug\netcoreapp2.2\Options_1_CommonUsage.runtimeconfig.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\bin\Debug\netcoreapp2.2\Options_1_CommonUsage.runtimeconfig.dev.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\bin\Debug\netcoreapp2.2\Options_1_CommonUsage.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\bin\Debug\netcoreapp2.2\Options_1_CommonUsage.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.csproj.CoreCompileInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.RazorAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.RazorAssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.AssemblyInfoInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.AssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.RazorTargetAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Options_1_CommonUsage\obj\Debug\netcoreapp2.2\Options_1_CommonUsage.pdb

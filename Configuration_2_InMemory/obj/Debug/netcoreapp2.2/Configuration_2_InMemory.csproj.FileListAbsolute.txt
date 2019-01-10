@@ -24,3 +24,16 @@ C:\TFS\NetCoreCurriculum\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Config
 C:\TFS\NetCoreCurriculum\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.RazorTargetAssemblyInfo.cache
 C:\TFS\NetCoreCurriculum\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.dll
 C:\TFS\NetCoreCurriculum\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\bin\Debug\netcoreapp2.2\Configuration_2_InMemory.deps.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\bin\Debug\netcoreapp2.2\Configuration_2_InMemory.runtimeconfig.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\bin\Debug\netcoreapp2.2\Configuration_2_InMemory.runtimeconfig.dev.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\bin\Debug\netcoreapp2.2\Configuration_2_InMemory.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\bin\Debug\netcoreapp2.2\Configuration_2_InMemory.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.csproj.CoreCompileInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.RazorAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.RazorAssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.AssemblyInfoInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.AssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.RazorTargetAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_2_InMemory\obj\Debug\netcoreapp2.2\Configuration_2_InMemory.pdb

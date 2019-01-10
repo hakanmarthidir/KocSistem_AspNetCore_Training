@@ -24,3 +24,16 @@ C:\TFS\NetCoreCurriculum\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middleware
 C:\TFS\NetCoreCurriculum\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.RazorTargetAssemblyInfo.cache
 C:\TFS\NetCoreCurriculum\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.dll
 C:\TFS\NetCoreCurriculum\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\bin\Debug\netcoreapp2.2\Middlewares_1_Common.deps.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\bin\Debug\netcoreapp2.2\Middlewares_1_Common.runtimeconfig.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\bin\Debug\netcoreapp2.2\Middlewares_1_Common.runtimeconfig.dev.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\bin\Debug\netcoreapp2.2\Middlewares_1_Common.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\bin\Debug\netcoreapp2.2\Middlewares_1_Common.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.csproj.CoreCompileInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.RazorAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.RazorAssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.AssemblyInfoInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.AssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.RazorTargetAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_1_Common\obj\Debug\netcoreapp2.2\Middlewares_1_Common.pdb

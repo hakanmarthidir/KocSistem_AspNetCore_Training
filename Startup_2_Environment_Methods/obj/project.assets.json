@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Startup_2_Environment_Methods\\Startup_2_Environment_Methods.csproj",
+      "projectUniqueName": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Startup_2_Environment_Methods\\Startup_2_Environment_Methods.csproj",
       "projectName": "Startup_2_Environment_Methods",
-      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Startup_2_Environment_Methods\\Startup_2_Environment_Methods.csproj",
+      "projectPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Startup_2_Environment_Methods\\Startup_2_Environment_Methods.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Startup_2_Environment_Methods\\obj\\",
+      "outputPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Startup_2_Environment_Methods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

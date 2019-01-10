@@ -12191,11 +12191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Logging_2_ThirdParty_Nlog\\Logging_2_ThirdParty_Nlog.csproj",
+      "projectUniqueName": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Logging_2_ThirdParty_Nlog\\Logging_2_ThirdParty_Nlog.csproj",
       "projectName": "Logging_2_ThirdParty_Nlog",
-      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Logging_2_ThirdParty_Nlog\\Logging_2_ThirdParty_Nlog.csproj",
+      "projectPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Logging_2_ThirdParty_Nlog\\Logging_2_ThirdParty_Nlog.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Logging_2_ThirdParty_Nlog\\obj\\",
+      "outputPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Logging_2_ThirdParty_Nlog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

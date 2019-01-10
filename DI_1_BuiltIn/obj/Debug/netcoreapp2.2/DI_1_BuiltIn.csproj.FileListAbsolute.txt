@@ -26,3 +26,17 @@ C:\TFS\NetCoreCurriculum\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.Assem
 C:\TFS\NetCoreCurriculum\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.RazorTargetAssemblyInfo.cache
 C:\TFS\NetCoreCurriculum\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.dll
 C:\TFS\NetCoreCurriculum\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\bin\Debug\netcoreapp2.2\DI_1_BuiltIn.deps.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\bin\Debug\netcoreapp2.2\DI_1_BuiltIn.runtimeconfig.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\bin\Debug\netcoreapp2.2\DI_1_BuiltIn.runtimeconfig.dev.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\bin\Debug\netcoreapp2.2\DI_1_BuiltIn.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\bin\Debug\netcoreapp2.2\DI_1_BuiltIn.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.csprojAssemblyReference.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.csproj.CoreCompileInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.RazorAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.RazorAssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.AssemblyInfoInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.AssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.RazorTargetAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\DI_1_BuiltIn\obj\Debug\netcoreapp2.2\DI_1_BuiltIn.pdb

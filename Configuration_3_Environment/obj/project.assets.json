@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Configuration_3_Environment\\Configuration_3_Environment.csproj",
+      "projectUniqueName": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Configuration_3_Environment\\Configuration_3_Environment.csproj",
       "projectName": "Configuration_3_Environment",
-      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Configuration_3_Environment\\Configuration_3_Environment.csproj",
+      "projectPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Configuration_3_Environment\\Configuration_3_Environment.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Configuration_3_Environment\\obj\\",
+      "outputPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Configuration_3_Environment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

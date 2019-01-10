@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Options_1_CommonUsage\\Options_1_CommonUsage.csproj",
+      "projectUniqueName": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Options_1_CommonUsage\\Options_1_CommonUsage.csproj",
       "projectName": "Options_1_CommonUsage",
-      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Options_1_CommonUsage\\Options_1_CommonUsage.csproj",
+      "projectPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Options_1_CommonUsage\\Options_1_CommonUsage.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\Options_1_CommonUsage\\obj\\",
+      "outputPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\Options_1_CommonUsage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

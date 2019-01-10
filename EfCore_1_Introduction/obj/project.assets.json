@@ -12082,11 +12082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\EfCore_1_Introduction\\EfCore_1_Introduction.csproj",
+      "projectUniqueName": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\EfCore_1_Introduction\\EfCore_1_Introduction.csproj",
       "projectName": "EfCore_1_Introduction",
-      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\EfCore_1_Introduction\\EfCore_1_Introduction.csproj",
+      "projectPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\EfCore_1_Introduction\\EfCore_1_Introduction.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\EfCore_1_Introduction\\obj\\",
+      "outputPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\EfCore_1_Introduction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

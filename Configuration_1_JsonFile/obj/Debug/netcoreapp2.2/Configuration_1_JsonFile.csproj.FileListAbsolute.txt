@@ -25,3 +25,16 @@ C:\TFS\NetCoreCurriculum\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Config
 C:\TFS\NetCoreCurriculum\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.RazorTargetAssemblyInfo.cache
 C:\TFS\NetCoreCurriculum\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.dll
 C:\TFS\NetCoreCurriculum\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\bin\Debug\netcoreapp2.2\Configuration_1_JsonFile.deps.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\bin\Debug\netcoreapp2.2\Configuration_1_JsonFile.runtimeconfig.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\bin\Debug\netcoreapp2.2\Configuration_1_JsonFile.runtimeconfig.dev.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\bin\Debug\netcoreapp2.2\Configuration_1_JsonFile.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\bin\Debug\netcoreapp2.2\Configuration_1_JsonFile.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.csproj.CoreCompileInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.RazorAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.RazorAssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.AssemblyInfoInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.AssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.RazorTargetAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Configuration_1_JsonFile\obj\Debug\netcoreapp2.2\Configuration_1_JsonFile.pdb

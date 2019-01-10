@@ -25,3 +25,16 @@ C:\TFS\NetCoreCurriculum\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Def
 C:\TFS\NetCoreCurriculum\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.RazorTargetAssemblyInfo.cache
 C:\TFS\NetCoreCurriculum\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.dll
 C:\TFS\NetCoreCurriculum\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\bin\Debug\netcoreapp2.2\Startup_1_Default.deps.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\bin\Debug\netcoreapp2.2\Startup_1_Default.runtimeconfig.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\bin\Debug\netcoreapp2.2\Startup_1_Default.runtimeconfig.dev.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\bin\Debug\netcoreapp2.2\Startup_1_Default.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\bin\Debug\netcoreapp2.2\Startup_1_Default.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.csproj.CoreCompileInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.RazorAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.RazorAssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.AssemblyInfoInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.AssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.RazorTargetAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Startup_1_Default\obj\Debug\netcoreapp2.2\Startup_1_Default.pdb

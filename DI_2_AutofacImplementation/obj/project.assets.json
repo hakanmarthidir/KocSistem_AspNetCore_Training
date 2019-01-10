@@ -12210,11 +12210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\DI_2_AutofacImplementation\\DI_2_AutofacImplementation.csproj",
+      "projectUniqueName": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\DI_2_AutofacImplementation\\DI_2_AutofacImplementation.csproj",
       "projectName": "DI_2_AutofacImplementation",
-      "projectPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\DI_2_AutofacImplementation\\DI_2_AutofacImplementation.csproj",
+      "projectPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\DI_2_AutofacImplementation\\DI_2_AutofacImplementation.csproj",
       "packagesPath": "C:\\Users\\02483918\\.nuget\\packages\\",
-      "outputPath": "C:\\TFS\\hakanmarthidir\\KocSistem_AspNetCore_Training\\DI_2_AutofacImplementation\\obj\\",
+      "outputPath": "C:\\OtherProjects\\KocSistem_AspNetCore_Training\\DI_2_AutofacImplementation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

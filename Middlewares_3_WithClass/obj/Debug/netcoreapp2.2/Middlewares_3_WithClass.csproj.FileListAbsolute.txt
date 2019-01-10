@@ -25,3 +25,16 @@ C:\TFS\NetCoreCurriculum\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlew
 C:\TFS\NetCoreCurriculum\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.RazorTargetAssemblyInfo.cache
 C:\TFS\NetCoreCurriculum\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.dll
 C:\TFS\NetCoreCurriculum\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\bin\Debug\netcoreapp2.2\Middlewares_3_WithClass.deps.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\bin\Debug\netcoreapp2.2\Middlewares_3_WithClass.runtimeconfig.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\bin\Debug\netcoreapp2.2\Middlewares_3_WithClass.runtimeconfig.dev.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\bin\Debug\netcoreapp2.2\Middlewares_3_WithClass.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\bin\Debug\netcoreapp2.2\Middlewares_3_WithClass.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.csproj.CoreCompileInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.RazorAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.RazorAssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.AssemblyInfoInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.AssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.RazorTargetAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\Middlewares_3_WithClass\obj\Debug\netcoreapp2.2\Middlewares_3_WithClass.pdb

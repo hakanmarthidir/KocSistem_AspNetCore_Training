@@ -24,3 +24,16 @@ C:\TFS\NetCoreCurriculum\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_
 C:\TFS\NetCoreCurriculum\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.RazorTargetAssemblyInfo.cache
 C:\TFS\NetCoreCurriculum\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.dll
 C:\TFS\NetCoreCurriculum\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\bin\Debug\netcoreapp2.2\EfCore_1_Introduction.deps.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\bin\Debug\netcoreapp2.2\EfCore_1_Introduction.runtimeconfig.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\bin\Debug\netcoreapp2.2\EfCore_1_Introduction.runtimeconfig.dev.json
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\bin\Debug\netcoreapp2.2\EfCore_1_Introduction.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\bin\Debug\netcoreapp2.2\EfCore_1_Introduction.pdb
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.csproj.CoreCompileInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.RazorAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.RazorAssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.AssemblyInfoInputs.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.AssemblyInfo.cs
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.RazorTargetAssemblyInfo.cache
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.dll
+C:\OtherProjects\KocSistem_AspNetCore_Training\EfCore_1_Introduction\obj\Debug\netcoreapp2.2\EfCore_1_Introduction.pdb
